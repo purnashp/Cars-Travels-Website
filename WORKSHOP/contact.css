@@ -1,0 +1,33 @@
+.contact{
+    height: 90vh;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto ;
+    justify-content: space-evenly;
+    margin: 10vh 0 0 0;
+}
+.add{
+    height: 200px;
+    width: 500px;
+}
+.add p{
+    color: aqua;
+    font-family: monospace;
+    font-size: 20px;
+}
+.add h1{
+    color: white;
+    margin-bottom: 3vh;
+    font-family: serif;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.map{
+    position: absolute;
+    bottom: 5vh;
+    left: 60vh;
+}
+.map img{
+    height: 30vh;
+    width: 80vh;
+}

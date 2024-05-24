@@ -1,0 +1,13 @@
+.about{
+    color: white;
+    font-family: monospace;
+    width: 80%;
+    text-align: justify;
+    margin: 3vh auto 3vh auto;
+    font-size: 16px;
+    text-transform: capitalize;
+}
+.about h2{
+    margin: 5vh 0 0 0;
+    color: tomato;
+}
